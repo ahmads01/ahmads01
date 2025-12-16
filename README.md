@@ -43,7 +43,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://ahmad-saeed-portfolio.netlify.app/" target="_blank">
-   <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-portfolio-portfolio-flaticons-flat-flat-icons.png" height="38" alt="Portfolio" />
+    <img src="https://img.icons8.com/ios-filled/50/domain.png" height="38" alt="Portfolio" />
   </a>
 </p>
 
