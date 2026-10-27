@@ -26,7 +26,7 @@
 
 <!-- <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=1500&color=4AA8E0&center=true&vCenter=true&width=800&lines=Python-based+data+extraction%2C+cleaning+%26+automation;RAG%2C+embeddings+%26+LLM-powered+apps;Full-stack+web+apps+with+React+%26+Node.js" alt="" /></p> -->
 
-I'm an **AI Data Engineer** with hands-on experience in Python-based web data extraction, data cleaning, validation, and automation. I'm familiar with **Retrieval-Augmented Generation (RAG)**, vector embeddings, semantic search, and LLM-based applications.
+I'm an **AI/ML Engineer** with hands-on experience in Python-based web data extraction, data cleaning, validation, and automation. I'm familiar with **Retrieval-Augmented Generation (RAG)**, vector embeddings, semantic search, and LLM-based applications.
 
 I also build **full-stack web apps** with React.js, Node.js, Express.js, and databases. I'm interested in reliable data pipelines and practical AI-powered applications.
 
